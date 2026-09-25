@@ -1,0 +1,260 @@
+VBAHA124
+
+
+
+
+Kurkun Ohje
+
+Tarkoitus
+©TESI software 1998
+
+
+
+0
+0
+2
+i:\tero\ohjelm~1\vb5\kurkku\help\kurkku.rtf
+
+RegisterRoutine("mmsystem.dll", "sndPlaySound", "i=Si")
+
+
+
+
+main
+Kurkun Ohje
+625
+75
+350
+500
+0
+0
+15
+15
+
+3
+Kurkun Pelaaminen: pelin tarkoitus
+Tarkoitus
+tarkoitus, peli
+
+
+
+
+0
+1
+3
+MS Sans Serif
+16
+0
+101
+101
+0
+1
+0
+0
+
+
+Kurkun pelaaminen: pelin tarkoitus
+
+3
+MS Sans Serif
+16
+0
+245
+101
+0
+0
+0
+0
+
+
+Kurkun häviää pelaaja, jolla on pelin lopussa suurin pistemäärä. eli pelissä ei ole varsinaista voittajaa, vain häviäjä.
+
+Kurkun Pelaaminen: pelin säännöt
+Pelaaminen
+pelaaminen, peli
+
+
+
+
+0
+5
+3
+MS Sans Serif
+16
+0
+101
+101
+0
+1
+0
+0
+
+
+Kurkun pelaaminen: pelin aloittaminen
+
+3
+MS Sans Serif
+16
+0
+216
+101
+0
+0
+0
+0
+
+
+1. Valitsemalla 'Peli' valikosta 'Asetukset...' tai painamalla F7 saat esiin asetukset ikkunan. Siitä voit valita pistemäärän jonka ylittävä pelaaja häviää pelin. Lisäksi voit valita tietokoneen pelaajille nimet.
+
+
+3
+MS Sans Serif
+16
+0
+216
+101
+0
+0
+0
+0
+
+
+2.  Pelissä tarkoituksena on jättää mahdollisimman pieni kortti viimeiseksi. Pelin aikana joka kierroksella on tarkoituksena laittaa suurempi kortti pöytään kuin mitä suurin kortti pöydässä on sillä hetkellä. Se joka voittaa tikin eli laittaa suurimman kortin, saa aloittaa seuraavan kierroksen. Mailla tässä pelissä ei ole väliä.
+
+
+3
+MS Sans Serif
+16
+0
+216
+101
+0
+0
+0
+0
+
+
+3.  Jos sinulla ei ole suurempaa korttia kuin pöydällä on suurin, sinun on laitettava pienin korttisi pois. Myöskin jos sinulla on mahdollisuus laittaa suurempi tai yhtäsuuri kortti kuin suurin sen hetkinen kortti, sinun on laitettava se.
+
+
+3
+MS Sans Serif
+16
+0
+101
+101
+0
+1
+0
+0
+
+
+
+Pisteet
+
+3
+MS Sans Serif
+16
+0
+216
+101
+0
+0
+0
+0
+
+
+Joka kierroksen lopussa, sen pelaajan pistemäärään, jolla on suurin kortti, lisätään kortin arvo. Jos suurimpia kortteja on monta lisätään pistemäärä kaikille. Lopulta se pelaaja, joka ylittää asetuksissa määrätyn pistemäärän, häviää pelin.
+
+Kurkun Pelaaminen: taktiikka ja vihjeitä
+Taktiikkaa
+taktiikka ja vihjeitä
+
+
+
+
+0
+1
+3
+MS Sans Serif
+16
+0
+101
+101
+0
+1
+0
+0
+
+
+Kurkun pelaaminen: taktiikka ja vihjeitä
+
+3
+MS Sans Serif
+16
+0
+216
+101
+0
+0
+0
+0
+
+
+Peliä ei kannata aloittaa välttämättä suurimmalla kortilla.
+
+Joskus riskin ottaminen kannattaa, harkitse kuitenkin.
+
+Muuta tietoa Kurkusta
+Muuta
+muuta tietoa
+
+
+
+
+0
+1
+3
+MS Sans Serif
+16
+0
+101
+101
+0
+1
+0
+0
+
+
+Muuta tietoa Kurkusta:
+
+3
+MS Sans Serif
+16
+0
+216
+101
+0
+0
+0
+0
+
+
+Tämä versio TESI softwaren Kurkusta on 32-bittinen ja toimii sekä Windows 95:ssä, Windows 98:ssa että Windows NT:ssä.
+
+Jos löydät bugeja tai sinulla on muuta kerrottavaa, lähetä sähköpostia alla olevaan osoitteeseen.
+
+Päivityksiä ja mahdollisia uusia versioita löytyy alla olevasta osoitteesta.
+
+©TESI software 1995-1998
+
+www:  http://members.xoom.com/tesisoftware
+e-mail: tesisoftware@usa.net
+
+Tero Siironen
+
+www:  http://personal.inet.fi/cool/siironen/tero
+e-mail: tero.siironen@usa.net
+
+
+
